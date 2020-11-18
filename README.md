@@ -3,10 +3,10 @@
 ### About:
 VisProt is a MATLAB-based package designed for electron microscopy image-processing and differential visual proteomics.
 
-### Instructions:
-1. Create a project directory and add the <i>vp</i> package. 
+### Installation and usage instructions:
+1. Create a project directory and clone the repository for the <i>vp</i> package. 
 
-2. In the project directory create the folder <i>RawMicrographs</i>  that contains micrographs of different samples (eg: RawMicrographs/Sample1/, RawMicrographs/Sample2/, etc). 
+2. In the project directory create a folder <i>RawMicrographs</i>  that contains micrographs of the different samples (eg: RawMicrographs/Sample1/, RawMicrographs/Sample2/, etc). 
 
 2. Launch MATLAB in the project directory and initiate VisProt with either:
 >> vp.MasterScript_matlab 
